@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">I am a software developer from Iran, specializing in both Front-end and Back-end development.</h3>
 
-<img align="right" alt="Abolfazldargi" width = "500"   src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif">
+<img align="right" alt="Abolfazldargi" width = "500"   src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazldargi&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazldargi" /> </p>
 
